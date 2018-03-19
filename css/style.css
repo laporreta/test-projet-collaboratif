@@ -12,3 +12,24 @@ header a {
 #logo {
     display: inline-block;
 }
+
+h2 {
+    color: darkred;
+}
+
+h4 {
+    text-transform: uppercase;
+    color: darkred;
+}
+
+main, aside {
+    display:inline-block;
+}
+
+main {
+    width:67%;
+}
+
+aside {
+    width:28%;
+}
