@@ -27,9 +27,14 @@ main, aside {
 }
 
 main {
-    width:67%;
+    width:70%;
+    vertical-align: top;
 }
 
 aside {
     width:28%;
+}
+
+aside img {
+    width: 80%;
 }
